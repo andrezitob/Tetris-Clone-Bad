@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\TETA\bin\Release\TETA.exe.config
+C:\Users\Pichau\source\repos\TETA\bin\Release\TETA.exe
+C:\Users\Pichau\source\repos\TETA\bin\Release\TETA.pdb
+C:\Users\Pichau\source\repos\TETA\obj\Release\TETA.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\TETA\obj\Release\TETA.exe
+C:\Users\Pichau\source\repos\TETA\obj\Release\TETA.pdb

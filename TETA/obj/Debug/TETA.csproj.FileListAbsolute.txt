@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\TETA\bin\Debug\TETA.exe.config
+C:\Users\Pichau\source\repos\TETA\bin\Debug\TETA.exe
+C:\Users\Pichau\source\repos\TETA\bin\Debug\TETA.pdb
+C:\Users\Pichau\source\repos\TETA\obj\Debug\TETA.exe
+C:\Users\Pichau\source\repos\TETA\obj\Debug\TETA.pdb
+C:\Users\Pichau\source\repos\TETA\obj\Debug\TETA.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\TETA\bin\Debug\TETA.exe.config
+C:\Users\andre\source\repos\TETA\bin\Debug\TETA.exe
+C:\Users\andre\source\repos\TETA\bin\Debug\TETA.pdb
+C:\Users\andre\source\repos\TETA\obj\Debug\TETA.exe
+C:\Users\andre\source\repos\TETA\obj\Debug\TETA.pdb
+C:\Users\andre\source\repos\TETA\obj\Debug\TETA.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\TETA\obj\Debug\TETA.csproj.CoreCompileInputs.cache
